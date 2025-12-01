@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Light Years",
+  "base_artist": "麻枝 准、やなぎなぎ",
+  "createdAt": "2025-12-01T11:53:48.504690Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Light Years",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/01_Light_Years_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "1000 Light Years From Here",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/02_1000_Light_Years_From_Here_Prince.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Light Years",
+      "artist": "ABC",
+      "has_synced": false,
+      "path": "select/03_Light_Years_ABC.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Light Years",
+      "artist": "Robert Palmer",
+      "has_synced": true,
+      "path": "select/04_Light_Years_Robert_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Million Light Years",
+      "artist": "4 Strings",
+      "has_synced": true,
+      "path": "select/05_One_Million_Light_Years_4_Strings.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Light Years - Instrumental",
+      "artist": "The Midnight",
+      "has_synced": false,
+      "path": "select/06_Light_Years_-_Instrumental_The_Midnight.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Light Years",
+      "artist": "The Midnight feat. Nikki Flores",
+      "has_synced": true,
+      "path": "select/07_Light_Years_The_Midnight_feat._Nikki_Flores.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Light Years (feat. Nikki Flores)",
+      "artist": "The Midnight",
+      "has_synced": true,
+      "path": "select/08_Light_Years_(feat._Nikki_Flores)_The_Midnight.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Light Years",
+      "artist": "Duster",
+      "has_synced": true,
+      "path": "select/09_Light_Years_Duster.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "10 Light Years Away",
+      "artist": "Scorpions",
+      "has_synced": true,
+      "path": "select/10_10_Light_Years_Away_Scorpions.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Light Years",
+      "artist": "Jonatha Brooke",
+      "has_synced": false,
+      "path": "select/11_Light_Years_Jonatha_Brooke.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "A Million Light Years Away (Live)",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/12_A_Million_Light_Years_Away_(Live)_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "A Million Light Years Away",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/13_A_Million_Light_Years_Away_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "A Million Light Years Away",
+      "artist": "Stratovarius",
+      "has_synced": false,
+      "path": "select/14_A_Million_Light_Years_Away_Stratovarius.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "A Million Light Years Away",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/15_A_Million_Light_Years_Away_Stratovarius.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LIGHT YEARS",
+      "artist": "Initial'L",
+      "has_synced": false,
+      "path": "select/pl_01_LIGHT_YEARS_Initial'L.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Light Years",
+      "artist": "Initial'L",
+      "has_synced": false,
+      "path": "select/pl_02_Light_Years_Initial'L.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Light Years",
+      "artist": "Initial'L",
+      "has_synced": false,
+      "path": "select/pl_03_Light_Years_Initial'L.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Light Year Song",
+      "artist": "Initial'L",
+      "has_synced": false,
+      "path": "select/pl_04_Light_Year_Song_Initial'L.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Lightyears",
+      "artist": "Initial'L",
+      "has_synced": false,
+      "path": "select/pl_05_Lightyears_Initial'L.txt"
+    }
+  ]
+}
